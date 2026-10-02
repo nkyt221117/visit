@@ -1,0 +1,6 @@
+{
+  "name": "시트보드 (SheetGuestbook) - 구글 시트 연동 방명록",
+  "description": "구글 스프레드시트를 데이터베이스로 활용하는 모던 반응형 방명록 및 게시판 웹앱. 구글 앱스 스크립트(GAS) Web App API 연동과 초보자용 가이드 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
